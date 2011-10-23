@@ -8,3 +8,11 @@ BigBlueButton is an open source web conferencing system built on over fourteen o
 BigBlueButton is trademark of BigBlueButton Inc.
 
 The class requires the use of the BBB config file.
+
+Initial functionalities include:
+- Create Meeting
+- Join Meeting
+- End Meeting
+- Get Meeting Info
+- Get Meetings List
+- Check if Meeting is Running

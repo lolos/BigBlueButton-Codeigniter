@@ -1,0 +1,10 @@
+BBB Library Class (BigBlueButton Wrapper Class)
+
+This CI library is based on BigBlueButton's API (http://bigbluebutton.org)
+
+This file provides an easier and simpler way to use BigBlueButton on CodeIgniter PHP Framework. This file is ONLY intended to be a CI wrapper of BigBlueButton's official API.
+
+BigBlueButton is an open source web conferencing system built on over fourteen open source components to create an integrated solution that runs on Mac, UNIX, or PC computers.
+BigBlueButton is trademark of BigBlueButton Inc.
+
+The class requires the use of the BBB config file.
